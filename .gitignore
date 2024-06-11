@@ -1,0 +1,6 @@
+/env/
+*.jpg
+*.gif
+*.png
+/.vscode/
+/__pycache__/
